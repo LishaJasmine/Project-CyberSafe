@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CyberSafe
 
 Educational cybersecurity-awareness website with React + TypeScript, Express REST API, and MongoDB.
@@ -62,3 +63,7 @@ Open the URL Vite prints, normally `http://localhost:5173`.
 
 ## Important security notes
 This is a student/demo project, not a production incident-reporting service. The admin page is intentionally a demo page and has **no authentication** in this starter. Do not expose it publicly or use it for real sensitive incident reports until you add proper admin authentication, authorization, rate limiting, privacy controls, and deployment hardening. Do not submit real passwords, OTPs, card data, or other secrets in incident descriptions.
+=======
+# Project-CyberSafe
+A cybersecurity awareness and incident reporting web application.
+>>>>>>> origin/main
